@@ -1,1 +1,2 @@
 This is some sample text to better understand file handling in Ruby
+Yet another sample text to understand file handling in Ruby
